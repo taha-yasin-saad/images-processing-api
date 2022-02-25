@@ -23,7 +23,7 @@ Expected arguments are:
 - _height_: numerical pixel value > 0
 
 ### Usage
-The server will listen on port 3000:
+The server will listen on port :3000
 
 #### #1
 http://localhost:3000/api/images
